@@ -1,0 +1,11 @@
+CustomerId,Gender,City,Education,Annual Purchases,Income
+1,M,"New York",University,6233.00,10000
+2,M,"New York","High School",4233.00,8000
+3,F,Seattle,University,6560.00,8000
+4,M,Chicago,University,5001.00,8000
+5,M,"New York",University,7034.00,10000
+6,F,Chicago,University,5345.00,10000
+7,M,Seattle,"High School",790.00,5000
+8,F,Seattle,None,240.00,4000
+9,M,Seattle,University,791.00,4000
+10,M,"New York",None,232.00,1000

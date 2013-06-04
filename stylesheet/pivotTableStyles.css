@@ -1,0 +1,21 @@
+
+.chart {
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    font-size: 11px;
+}
+
+rect {
+    stroke: #eee;
+    fill: #aaa;
+}
+
+rect.parent {
+    cursor: pointer;
+    fill: gray;
+}
+
+text {
+    pointer-events: none;
+}
